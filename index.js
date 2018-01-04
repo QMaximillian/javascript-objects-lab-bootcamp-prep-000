@@ -22,3 +22,4 @@ function destructivelyDeleteFromObjectByKey(recipes, recipe) {
   delete recipes[recipe]
   return recipes
 }
+
